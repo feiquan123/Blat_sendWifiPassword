@@ -1,0 +1,20 @@
++++++++++++++++++++++++++++++++++++
+WiFiPasswordSave
+++++++++++++++++++++++++++++++++++
+====================================
+Author:feiquan
+Create:2018/10/20 17:39
+UpdataDate:2018/10/24 13:19
+Version:2.3v
+Function:See and Save your computer connnect all WiFi password
+		修复wifi名为空时,打印不完全
+		重命名保存的文件名
+		更改临时文件的位置
+		修复命名文件时时间问题,将小于10点之前的空格+一位数变为两位数
+		修复判断文件是否齐全
+		增加网络状态监测
+		增加判断360状态监测
+notice:
+		1.运行前,关闭360否则会误删
+		2.双击ClickStartCrackWifiPassword.bat开始。
+=====================================
